@@ -10,7 +10,7 @@ Busco evoluir constantemente através de projetos práticos, estudos e organiza�
 
 ---
 
-### 🚀 Tecnologias e Estudos
+### Tecnologias e Estudos
 
 <img 
     align="left" 
@@ -62,7 +62,7 @@ Busco evoluir constantemente através de projetos práticos, estudos e organiza�
 
 ---
 
-### 📌 Projetos
+### Projetos
 
 - 🎮 Site inspirado na PlayStation/Sony
 - 🏢 Desenvolvimento de ERP escolar com foco em RH
@@ -71,7 +71,7 @@ Busco evoluir constantemente através de projetos práticos, estudos e organiza�
 
 ---
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
   <img 
