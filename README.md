@@ -70,15 +70,15 @@ Busco evoluir constantemente através de projetos práticos e estudos.
     align="left" 
     alt="GitHub Stats" 
     height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=KauaSouza777&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="Tecnologias" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&theme=tokyonight&layout=compact&langs_count=6" 
+  <img 
+    align="left" 
+    alt="Tecnologias" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaSouza777&theme=tokyonight&layout=compact&langs_count=6" 
   />
-
 </p>
+
+
