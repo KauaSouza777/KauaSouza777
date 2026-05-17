@@ -6,7 +6,7 @@ Sou estudante do curso técnico de Desenvolvimento de Sistemas e atualmente estu
 
 Tenho interesse em desenvolvimento frontend e backend, criação de APIs e projetos em equipe. Atualmente participo do desenvolvimento de um ERP escolar com foco no setor de RH.
 
-Busco evoluir constantemente através de projetos práticos, estudos e organização do meu portfólio no GitHub.
+Busco evoluir constantemente através de projetos práticos e estudos.
 
 ---
 
