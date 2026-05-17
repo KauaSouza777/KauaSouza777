@@ -60,16 +60,8 @@ Busco evoluir constantemente através de projetos práticos, estudos e organiza�
 <br/>
 <br/>
 
----
 
-### Projetos
 
-- 🎮 Site inspirado na PlayStation/Sony
-- 🏢 Desenvolvimento de ERP escolar com foco em RH
-- 🔌 API básica integrada ao projeto ERP
-- 📚 Repositórios de estudos em JavaScript e Java
-
----
 
 ### Estatísticas
 
