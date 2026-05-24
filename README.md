@@ -82,7 +82,7 @@ Busco evoluir constantemente através de projetos práticos e estudos.
   />
 
   <img
-    height="150em"
+    height="153em"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KauaSouza777&layout=compact&langs_count=7&theme=tokyonight"
   />
 
