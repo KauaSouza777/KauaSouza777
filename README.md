@@ -73,16 +73,20 @@ Busco evoluir constantemente através de projetos práticos e estudos.
 ### Estatísticas
 
 
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=KauaSouza777&show_icons=true&theme=tokyonight"
-  />
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=KauaSouza777&show_icons=true&theme=tokyonight"
+      />
+    </td>
 
-  <img
-    width="37%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KauaSouza777&layout=compact&theme=tokyonight"
-  />
-</p>
+    <td>
+      <img
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KauaSouza777&layout=compact&theme=tokyonight"
+      />
+    </td>
+  </tr>
+</table>
 
 
