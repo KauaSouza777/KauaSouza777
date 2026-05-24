@@ -72,12 +72,12 @@ Busco evoluir constantemente através de projetos práticos e estudos.
 
 ### Estatísticas
 
-<h2 align="center">📊 Estatísticas</h2>
+
 
 <div align="center">
 
   <img
-    height="180em"
+    height="170em"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=KauaSouza777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
 
