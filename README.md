@@ -77,12 +77,12 @@ Busco evoluir constantemente através de projetos práticos e estudos.
 <div align="center">
 
   <img
-    height="170em"
+    height="190em"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=KauaSouza777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
 
   <img
-    height="180em"
+    height="165em"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KauaSouza777&layout=compact&langs_count=7&theme=tokyonight"
   />
 
